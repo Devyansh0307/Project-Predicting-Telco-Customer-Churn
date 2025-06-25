@@ -36,8 +36,6 @@ The model revealed several key drivers of customer churn. The plot below shows t
 
 *(Here, you would embed the feature importance plot you generated)*
 
-![Feature Importance Plot](path/to/your/feature_importance_plot.png)
-
 The most significant factors are:
 *   **Contract Type:** Customers on a `Month-to-Month` contract are far more likely to churn than those on long-term contracts.
 *   **Tenure:** New customers with low tenure are at a high risk of churning.
@@ -47,8 +45,6 @@ The most significant factors are:
 
 The final model achieved the following results on the unseen test data:
 *   **Accuracy:** ~80%
-*   **Precision (for Churn=1):** [Add your precision score here]
-*   **Recall (for Churn=1):** [Add your recall score here] - This is a key metric, as it measures our ability to find the customers who truly churned.
 
 ## Actionable Business Insights
 
